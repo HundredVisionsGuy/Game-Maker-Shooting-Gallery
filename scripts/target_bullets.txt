@@ -1,0 +1,6 @@
+/* target */
+if mouse_check_button_pressed(mb_left)
+{
+    lives += 3;
+    instance_destroy();
+}

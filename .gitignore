@@ -1,0 +1,4 @@
+#.gitignore
+*.exe
+*.gb1
+*.gb*
