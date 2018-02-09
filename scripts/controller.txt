@@ -1,1 +1,2 @@
-
+my_health = 1;
+my_health += 1;
